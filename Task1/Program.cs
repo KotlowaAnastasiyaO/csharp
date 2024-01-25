@@ -1,6 +1,6 @@
 ﻿//Console.WriteLine("Hello, World!");
 
-int value = 100;
+int = 100;
 //Console.WriteLine(value);
 
 double d = 5.55;
